@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\RevitAPITraining\AddHole.dll"</Assembly>
+		<AddInId>A140E069-34B8-4FCE-9402-0EE7984B76C5</AddInId>
+		
+		<FullClassName>AddHole.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание отверстий по трубам и воздуховодам</Text>
+	</AddIn>
+</RevitAddIns>
